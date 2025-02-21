@@ -1,14 +1,3 @@
----
-title: "Minimal Mistakes Jekyll Theme: Hosting on GitHub & Using Liquid Archive Method"
-layout: single
-excerpt: "A guide to setting up the Minimal Mistakes Jekyll theme on GitHub Pages using the Liquid archive method for categories and tags."
-date: 2025-02-21
-header:
-  overlay_image: /assets/images/filler.webp
-  teaser: /assets/images/minimal-mistakes-setup.webp
-categories: [Web Development, Jekyll]
-tags: [Jekyll, Minimal Mistakes, GitHub Pages, Liquid Archive]
----
 
 ![Minimal Mistakes Setup](https://raw.githubusercontent.com/mattchoo2/mattchoo2.github.io/main/assets/images/minimal-mistakes-setup.webp)
 
