@@ -1,6 +1,8 @@
 
 ![Minimal Mistakes Setup](https://raw.githubusercontent.com/mattchoo2/mattchoo2.github.io/main/assets/images/minimal-mistakes-setup.webp)
 
+# Minimal Mistakes Jekyll Theme: Hosting on GitHub & Using Liquid Archive Method
+
 ## Step 1: Setting Up the Repository
 
 ### Step 1.1: Create a GitHub Repository
