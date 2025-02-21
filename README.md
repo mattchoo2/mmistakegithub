@@ -107,7 +107,7 @@ author_profile: true
 ---
 ```
 
-```
+
 ### Step 2.3: Enable Liquid Archive Method in `_config.yml`
 Ensure these lines exist in `_config.yml`:
 
@@ -120,7 +120,7 @@ tag_archive:
   path: /tags/
 ```
 
-### ### Step 2.3: Enable Liquid Archive Method in `_config.yml`
+### Step 2.3: Enable Liquid Archive Method in `_config.yml`
 
 Ensure these lines exist in `_config.yml`:
 
